@@ -34,21 +34,21 @@
 
 # About Me
 
-I am **Pallavi Kumari**, an aspiring **Data Analyst and Business Analytics professional** from Bihar, India — a place known for its rich history, cultural heritage, and contribution to education.
+I am **Pallavi Kumari**, an aspiring **Data Analyst and Business Analytics professional** from Bihar, India — a place known for its rich history, educational heritage, and cultural significance.
 
-With a Bachelor's degree in Commerce and professional experience in customer engagement and lead generation, I discovered my passion for solving business problems through data. I enjoy transforming raw datasets into meaningful insights that support smarter business decisions.
+With a Bachelor's degree in Commerce and professional experience in lead generation and customer engagement, I discovered my passion for solving business problems through data.
 
-My expertise includes **SQL, Python, Power BI, Excel, Data Cleaning, Exploratory Data Analysis, Dashboard Development, KPI Reporting, and Data Visualization**. I continuously work on real-world projects to strengthen my analytical thinking and technical skills.
+My expertise includes **SQL, Python, Power BI, Excel, Data Cleaning, Exploratory Data Analysis, Dashboard Development, KPI Reporting, and Data Visualization**. I enjoy transforming raw datasets into meaningful insights that support data-driven decision-making.
 
-Currently, I am focused on building a strong analytics portfolio while actively exploring opportunities in **Data Analytics, Business Analytics, and Business Intelligence**.
+Currently, I am building real-world analytics projects and actively exploring opportunities in **Data Analytics, Business Analytics, and Business Intelligence**.
 
 ### Open To
 
 - Data Analyst Roles
 - Business Analyst Roles
-- Business Intelligence Roles
-- Power BI Developer Roles
+- BI Analyst Roles
 - Analytics Internships
+- Power BI Developer Roles
 - Data Visualization Projects
 
 ---
@@ -91,7 +91,7 @@ Currently, I am focused on building a strong analytics portfolio while actively 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
-### Cloud, DevOps & Tooling
+### Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
@@ -116,7 +116,7 @@ Currently, I am focused on building a strong analytics portfolio while actively 
 | Exploratory Data Analysis | Advanced | Trend discovery and pattern analysis |
 | Business Intelligence | Advanced | KPI Reporting and Dashboard Design |
 | Python Analytics | Intermediate | Pandas, NumPy, Matplotlib |
-| Data Storytelling | Advanced | Converting insights into business recommendations |
+| Data Storytelling | Advanced | Presenting insights to support business decisions |
 
 ---
 
@@ -131,16 +131,16 @@ Currently, I am focused on building a strong analytics portfolio while actively 
 |-----------|---------|
 | Stack | SQL, MySQL |
 | Scale | Customer Behaviour Dataset |
-| Performance | Advanced SQL Query Optimization |
+| Performance | Advanced SQL Querying |
 | Security | Structured Relational Database |
 | Impact | Identified Customer Churn Patterns |
 | Repository | [View Repository](https://github.com/pallavisandilya4-hash/SQL-Customer-Churn-Analysis) |
 
 #### Project Overview
 
-Built a customer churn analysis project using SQL to identify customer retention trends and understand the factors contributing to customer attrition.
+Built a customer churn analysis project using SQL to identify customer retention trends and understand factors contributing to customer attrition.
 
-Implemented joins, aggregate functions, subqueries, filtering techniques, and business KPI reporting to generate actionable insights that can support customer retention strategies.
+Implemented joins, subqueries, aggregate functions, and KPI reporting to generate actionable business insights.
 
 </details>
 
@@ -154,37 +154,37 @@ Implemented joins, aggregate functions, subqueries, filtering techniques, and bu
 | Stack | Power BI, DAX, Excel |
 | Scale | Multi-Domain Business Datasets |
 | Performance | Interactive Reporting & Dashboarding |
-| Security | Data Validation & Cleaning |
-| Impact | Enhanced Business Decision Making |
+| Security | Cleaned and Validated Data Models |
+| Impact | Enhanced Business Decision-Making |
 | Repository | [View Repository](https://github.com/pallavisandilya4-hash/PowerBI-Dashboard-Portfolio) |
 
 #### Project Overview
 
-Developed multiple Power BI dashboards focused on KPI monitoring, trend analysis, performance reporting, and business intelligence.
+Developed multiple Power BI dashboards focused on KPI monitoring, trend analysis, business performance tracking, and executive reporting.
 
-Implemented interactive visualizations, slicers, filters, drill-down reports, and DAX measures to provide meaningful business insights.
+Created interactive visualizations, slicers, filters, and DAX measures to deliver meaningful insights.
 
 </details>
 
 <details>
 <summary><b>Exploratory Data Analysis Using Python</b></summary>
 
-### Data Cleaning, Transformation & Visualization
+### Data Cleaning, Visualization & Insight Generation
 
 | Category | Details |
 |-----------|---------|
 | Stack | Python, Pandas, NumPy, Matplotlib |
 | Scale | Real-world Analytical Datasets |
-| Performance | Automated Data Analysis Workflow |
+| Performance | Automated Analysis Workflow |
 | Security | Data Quality Validation |
-| Impact | Generated Actionable Insights |
+| Impact | Generated Actionable Business Insights |
 | Repository | [View Repository](https://github.com/pallavisandilya4-hash/Exploratory_Data_Analysis) |
 
 #### Project Overview
 
-Conducted end-to-end exploratory data analysis using Python by cleaning datasets, handling missing values, identifying outliers, performing statistical analysis, and creating visualizations.
+Performed end-to-end exploratory data analysis involving data cleaning, missing value treatment, statistical analysis, correlation analysis, and visualization.
 
-The project helped uncover trends, correlations, and patterns that support data-driven decision-making.
+Generated insights that support informed business decision-making.
 
 </details>
 
@@ -194,18 +194,18 @@ The project helped uncover trends, correlations, and patterns that support data-
 
 ## Lead Generation Executive | Kalkine Limited
 
-**Duration:** Professional Experience
+**Professional Experience**
 
-Worked in a customer-facing business environment focused on lead generation, prospect engagement, client communication, and business development support.
+Worked in a customer-focused environment involving lead qualification, client communication, market outreach, and reporting.
 
 ### Scope of Work
 
-- Identified and qualified potential leads
-- Managed prospect communication processes
-- Maintained CRM records and reporting
-- Collaborated with business development teams
-- Generated performance reports and activity summaries
-- Improved customer engagement workflows
+- Identified and qualified business leads
+- Managed customer engagement workflows
+- Maintained CRM-related processes
+- Generated performance reports
+- Collaborated with sales and business development teams
+- Tracked outreach effectiveness and lead quality
 
 ### Skills
 
@@ -224,11 +224,11 @@ Worked in a customer-facing business environment focused on lead generation, pro
 
 | Recognition | Details |
 |------------|---------|
-| Graduation | Bachelor of Commerce (B.Com) |
-| Technical Certification | Diploma in Computer Applications (DCA) |
-| Accounting Certification | Tally |
-| Analytics Projects | SQL, Python & Power BI Portfolio Projects |
-| Career Goal | Business Analytics & Data Analytics |
+| Academic Qualification | Bachelor of Commerce (B.Com) |
+| Analytics Portfolio | Built SQL, Python & Power BI Analytics Projects |
+| Deloitte Job Simulation | Completed Deloitte Data Analytics Virtual Experience Program |
+| Tata Job Simulation | Completed Tata Data Visualisation Virtual Experience Program |
+| Career Focus | Transitioning into Data Analytics & Business Intelligence |
 
 </div>
 
@@ -236,15 +236,19 @@ Worked in a customer-facing business environment focused on lead generation, pro
 
 # Certifications
 
-### Professional Certifications
+<div align="center">
 
-![DCA](https://img.shields.io/badge/DCA-Certified-8A2BE2?style=for-the-badge)
+<a href="https://drive.google.com/file/d/16yflAwlTuJvjXWSC9uGdgpdqX4T_Sh8S/view?usp=drive_link">
+<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Job%20Simulation-8A2BE2?style=for-the-badge"/>
+</a>
 
-![Tally](https://img.shields.io/badge/Tally-Certified-6A5ACD?style=for-the-badge)
+<br><br>
 
-![SQL](https://img.shields.io/badge/SQL-Learning-4B0082?style=for-the-badge)
+<a href="https://drive.google.com/file/d/1Yto0zVUxSdlBDDwMRsFYdKSs4ynIrT22/view?usp=drive_link">
+<img src="https://img.shields.io/badge/Tata-Data%20Visualisation%20Virtual%20Experience-6A5ACD?style=for-the-badge"/>
+</a>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Learning-483D8B?style=for-the-badge)
+</div>
 
 ---
 
@@ -254,19 +258,7 @@ Worked in a customer-facing business environment focused on lead generation, pro
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pallavisandilya4-hash&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pallavisandilya4-hash&theme=tokyonight"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavisandilya4-hash&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pallavisandilya4-hash&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -294,7 +286,7 @@ Learning:
 Building:
   - End-to-End Data Analytics Projects
   - Interactive Dashboards
-  - SQL Case Studies
+  - Portfolio Projects
 
 Exploring:
   - Machine Learning
@@ -304,8 +296,8 @@ Exploring:
 Open_To:
   - Data Analyst Roles
   - Business Analyst Roles
+  - BI Analyst Roles
   - Analytics Internships
-  - BI Opportunities
 ```
 
 ---
@@ -332,8 +324,9 @@ Open_To:
 
 <div align="center">
 
-### "Turning Data Into Decisions, and Decisions Into Impact."
+### "Turning Data Into Insights, Insights Into Decisions, and Decisions Into Impact."
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4B0082,50:6A5ACD,100:8A2BE2"/>
+
