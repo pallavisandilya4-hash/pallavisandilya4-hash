@@ -79,11 +79,6 @@ Currently, I am building real-world analytics projects and actively exploring op
 <img src="https://skillicons.dev/icons?i=python,mysql"/>
 </p>
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css"/>
-</p>
 
 ### Backend & Databases
 
