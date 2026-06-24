@@ -118,72 +118,132 @@ Currently, I am building real-world analytics projects and actively exploring op
 # Featured Projects
 
 <details>
-<summary><b>SQL Customer Churn Analysis</b></summary>
+<summary><b>📊 SQL Customer Churn Analysis</b></summary>
 
 ### Customer Retention & Churn Analytics
 
 | Category | Details |
 |-----------|---------|
 | Stack | SQL, MySQL |
-| Scale | Customer Behaviour Dataset |
-| Performance | Advanced SQL Querying |
-| Security | Structured Relational Database |
-| Impact | Identified Customer Churn Patterns |
+| Dataset | Customer Churn Dataset |
+| Skills Used | Joins, CTEs, Window Functions, Aggregate Functions |
+| Objective | Identify customer churn patterns and improve retention |
 | Repository | [View Repository](https://github.com/pallavisandilya4-hash/SQL-Customer-Churn-Analysis) |
 
-#### Project Overview
+### Project Overview
 
-Built a customer churn analysis project using SQL to identify customer retention trends and understand factors contributing to customer attrition.
+Designed an end-to-end SQL analytics project to analyze customer churn by exploring customer demographics, subscription behavior, and revenue trends. Built optimized SQL queries to generate business KPIs and identify high-risk customer segments.
 
-Implemented joins, subqueries, aggregate functions, and KPI reporting to generate actionable business insights.
+### Key Business Insights
+
+- Identified customer groups with the highest probability of churn.
+- Found customer segments contributing the largest revenue loss.
+- Analyzed churn rate across different demographics and subscription plans.
+- Highlighted retention opportunities for high-value customers.
+- Recommended targeted retention campaigns instead of applying discounts to every customer.
+
+### Business Impact
+
+Improved decision-making by enabling businesses to focus retention efforts on customers most likely to leave, helping reduce churn and maximize customer lifetime value.
 
 </details>
 
+---
+
 <details>
-<summary><b>Power BI Dashboard Portfolio</b></summary>
+<summary><b>📈 Power BI Dashboard Portfolio</b></summary>
 
 ### Interactive Business Intelligence Dashboards
 
 | Category | Details |
 |-----------|---------|
-| Stack | Power BI, DAX, Excel |
-| Scale | Multi-Domain Business Datasets |
-| Performance | Interactive Reporting & Dashboarding |
-| Security | Cleaned and Validated Data Models |
-| Impact | Enhanced Business Decision-Making |
-| Repository | [View Repository](https://github.com/pallavisandilya4-hash/PowerBI-Dashboard-Portfolio) |
+| Stack | Power BI, DAX, Power Query, Excel |
+| Projects | Netflix, BigBasket, Sales Analytics |
+| Skills Used | KPI Cards, DAX, Data Modeling, Interactive Reports |
+| Objective | Transform raw data into interactive dashboards |
+| Repository | [View Repository](https://github.com/pallavisandilyya4-hash/PowerBI-Dashboard-Portfolio) |
 
-#### Project Overview
+### Project Overview
 
-Developed multiple Power BI dashboards focused on KPI monitoring, trend analysis, business performance tracking, and executive reporting.
+Developed multiple interactive Power BI dashboards to monitor KPIs, visualize business performance, analyze customer behavior, and support strategic decision-making.
 
-Created interactive visualizations, slicers, filters, and DAX measures to deliver meaningful insights.
+### Key Business Insights
 
-</details>
+- Identified top-performing products and categories driving overall revenue.
+- Detected low-performing products requiring promotional strategies.
+- Compared sales performance across different regions and time periods.
+- Measured customer ratings to identify quality improvement opportunities.
+- Built executive dashboards enabling faster monitoring of key business metrics.
 
-<details>
-<summary><b>Exploratory Data Analysis Using Python</b></summary>
+### Business Impact
 
-### Data Cleaning, Visualization & Insight Generation
-
-| Category | Details |
-|-----------|---------|
-| Stack | Python, Pandas, NumPy, Matplotlib |
-| Scale | Real-world Analytical Datasets |
-| Performance | Automated Analysis Workflow |
-| Security | Data Quality Validation |
-| Impact | Generated Actionable Business Insights |
-| Repository | [View Repository](https://github.com/pallavisandilya4-hash/Exploratory_Data_Analysis) |
-
-#### Project Overview
-
-Performed end-to-end exploratory data analysis involving data cleaning, missing value treatment, statistical analysis, correlation analysis, and visualization.
-
-Generated insights that support informed business decision-making.
+Helped stakeholders quickly identify growth opportunities, monitor KPIs in real time, and make data-driven business decisions through interactive dashboards.
 
 </details>
 
 ---
+
+<details>
+<summary><b>🐍 Exploratory Data Analysis Using Python</b></summary>
+
+### Data Cleaning & Business Insight Generation
+
+| Category | Details |
+|-----------|---------|
+| Stack | Python, Pandas, NumPy, Matplotlib |
+| Skills Used | Data Cleaning, EDA, Visualization |
+| Objective | Discover patterns from real-world datasets |
+| Repository | [View Repository](https://github.com/pallavisandilyya4-hash/Exploratory_Data_Analysis) |
+
+### Project Overview
+
+Performed complete exploratory data analysis by cleaning datasets, handling missing values, identifying outliers, performing statistical analysis, and creating visualizations to uncover meaningful business insights.
+
+### Key Business Insights
+
+- Identified variables having the strongest influence on business outcomes.
+- Detected hidden trends and seasonal patterns within the data.
+- Found correlations that can improve forecasting accuracy.
+- Identified data quality issues affecting business reporting.
+- Recommended improvements based on customer behavior and operational trends.
+
+### Business Impact
+
+Converted raw datasets into actionable insights, enabling better planning, improved reporting accuracy, and more informed business decisions.
+
+</details>
+
+---
+
+<details>
+<summary><b>🍽️ Zomato Restaurant Analysis</b></summary>
+
+### Restaurant Market & Customer Preference Analysis
+
+| Category | Details |
+|-----------|---------|
+| Stack | Python, Pandas, Matplotlib |
+| Skills Used | EDA, Visualization, Data Cleaning |
+| Objective | Analyze restaurant trends and customer preferences |
+| Repository | [View Repository](https://github.com/pallavisandilya4-hash/Zomato-EDA-Project) |
+
+### Project Overview
+
+Analyzed restaurant data to understand customer preferences, pricing strategies, ratings, and online delivery trends using Python.
+
+### Key Business Insights
+
+- Identified cuisines with the highest customer demand.
+- Found locations having the highest concentration of highly-rated restaurants.
+- Determined the relationship between pricing and customer ratings.
+- Evaluated the impact of online delivery on restaurant popularity.
+- Highlighted restaurant categories with strong business potential.
+
+### Business Impact
+
+Provided insights that can help restaurant owners optimize pricing, improve customer satisfaction, and identify profitable market segments.
+
+</details>
 
 # Experience
 
