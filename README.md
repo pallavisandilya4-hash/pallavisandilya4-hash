@@ -275,14 +275,20 @@ Worked in a customer-focused environment involving lead qualification, client co
 
 <div align="center">
 
+<a href="https://drive.google.com/file/d/1k_W5lErUv1clJv1EP00EGRl5htzIxk1f/view?usp=sharing">
+<img src="https://img.shields.io/badge/Skill%20Degree-Data%20Analytics%20Certification-8A2BE2?style=for-the-badge"/>
+</a>
+
+<br><br>
+
 <a href="https://drive.google.com/file/d/16yflAwlTuJvjXWSC9uGdgpdqX4T_Sh8S/view?usp=drive_link">
-<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Job%20Simulation-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Job%20Simulation-6A5ACD?style=for-the-badge"/>
 </a>
 
 <br><br>
 
 <a href="https://drive.google.com/file/d/1Yto0zVUxSdlBDDwMRsFYdKSs4ynIrT22/view?usp=drive_link">
-<img src="https://img.shields.io/badge/Tata-Data%20Visualisation%20Virtual%20Experience-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tata-Data%20Visualisation%20Virtual%20Experience-4B0082?style=for-the-badge"/>
 </a>
 
 </div>
