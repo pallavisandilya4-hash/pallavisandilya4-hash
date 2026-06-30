@@ -294,14 +294,15 @@ Worked in a customer-focused environment involving lead qualification, client co
 </div>
 
 ---
-
 # GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pallavisandilya4-hash&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pallavisandilya4-hash&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavisandilya4-hash&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=pallavisandilya4-hash&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavisandilya4-hash&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
